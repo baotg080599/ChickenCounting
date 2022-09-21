@@ -1,0 +1,9 @@
+{
+  "name": "ChickenCounting",
+  "version": "1.0.0",
+  "description": "no",
+  "main": "main.js",
+  "repository": "https://github.com/baotg080599/ChickenCounting.git",
+  "author": "baotg",
+  "license": "MIT"
+}
